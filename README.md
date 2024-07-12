@@ -52,16 +52,19 @@ Each question file includes the problem statement, examples, and hints to help y
 1. **Read the Question:**
    Open the file for the current day (e.g., `day01.md`) and read the problem statement carefully.
 
-2. **Solve the Problem:**
+   ![image](https://github.com/user-attachments/assets/5391318d-fca2-4720-8ebc-1bc7afa5c751)
+
+
+3. **Solve the Problem:**
    Write your solution in a separate JavaScript file or directly in your preferred code editor.
 
-3. **Test Your Solution:**
+4. **Test Your Solution:**
    Run your code to ensure it works as expected. You can use the browser console, Node.js, or any JavaScript runtime environment.
 
-4. **Check the Solution:**
+5. **Check the Solution:**
    Compare your solution with the provided solution (if available) to understand different approaches and optimize your code.
 
-5. **Move to the Next Day:**
+6. **Move to the Next Day:**
    Once you are satisfied with your solution, move on to the next day's question and repeat the process.
 
 ## Contributing
