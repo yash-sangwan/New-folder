@@ -17,7 +17,7 @@ write a function findLongestWord that takes a String as input and returns the lo
 
 /* 
 
-solution number 1 (took 40 minutes)
+solution number 1 
 
 */
 
@@ -56,9 +56,10 @@ const findLongestWord = () => {
 
 // findLongestWord()
 
+
 /*
 
-second way to do this
+                                        second way to do this
 
 */
 

@@ -15,7 +15,6 @@
  */
 
 
-// this soln took 30 minutes 
 
 
 const checkTriangleType = (side1, side2, side3) => {

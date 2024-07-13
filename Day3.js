@@ -16,7 +16,6 @@
 */
 
 
-// this solution took 30 minutes
 
 // the below is soln is for case sensitive, if we want to make it case-insensitive then we can simply make the str and char to uppercase or lowercase and then count that..
 

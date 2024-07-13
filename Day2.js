@@ -16,7 +16,7 @@ The hash tag should be constructed as follows:
 
 /*
 
-solution (took 40 minutes)
+solution 1
 
 */
 
