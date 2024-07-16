@@ -26,11 +26,13 @@ const sumOfDigits = (num) => {
     for (let i = 0; i < newNum.length; i++) {
       temp = temp + Number(newNum[i]);
     }
-    console.log(temp);
+    return temp
   }
 };
-sumOfDigits(1234);
 
+console.log(sumOfDigits1(1234)); // Output: 10
+console.log(sumOfDigits1(4321)); // Output: 10
+console.log(sumOfDigits1(123456)); // Output: 21
 
 
 // adv constraint soln
